@@ -1,0 +1,20 @@
+---
+title: Fantasy Basketball Team Stat Rankings Cheat Sheet
+author: John Cabiles
+date: 4/22/2018
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# What We'll Cover
++ Objective of Fantasy Basketball
++ Overview of Cheat Sheet
++ Explaining the Excel Functions We'll Use
++ Initial Setup of Cheat Sheet
++ Putting It All Together
++ Excel Tips
++ Predicting the Fantasy League Playoffs
+
